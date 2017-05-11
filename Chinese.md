@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "English Pages"
-description: "My English Pages "
+title: "Chinese"
+description: "My Chinese Pages "
 header-img: "img/umbrella.jpg"
 ---
 
 
 
- [English Pages](http://zhiqihe.github.io)
+ [Chinese Pages](http://zhiqihe.github.io)
